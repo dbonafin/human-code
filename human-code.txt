@@ -1,0 +1,44 @@
+IL REGALO PERFETTO PER SILVIA
+1.Apro Amazon 
+	-apro browser
+	-apro Amazon
+	-eseguo login
+	-vado sul cerca
+
+2.Cerco lampada da tavolo
+	SE è PRIME e BUDGET 
+	-inserire nel carrello (VADO A SEZIONE ACQUISTA)
+	-Acquista 
+	ALTRIMENTI
+	-Cerco stilografica
+
+3.Cerco Stilografica
+	SE è PRIME e BUDGET 
+	-inserire nel carrello (VADO A SEZIONE ACQUISTA)
+	-Acquista 
+	ALTRIMENTI
+	-Cerco libro
+	
+4.Cerco Libro 
+	SE è PRIME e BUDGET 
+	-inserire nel carrello (VADO A SEZIONE ACQUISTA)
+	-Acquista 
+
+5.Acquisto Libro
+	5a inserire dati di spedizione
+		- Nome 
+		- Cognome 
+		- Indirizzo
+		- CAP
+		
+	5b modalita di pagamento
+		-Numero Carta
+		- Scadenza
+		- CVV
+		SE DATI CORRETTI 
+		   -ultimare pagamento (VADO A SEZIONE ACQUISTA ADESSO)
+		ALTRIMENTI
+		   - ricontrollare dati carta
+
+	
+	 - Acquista adesso
